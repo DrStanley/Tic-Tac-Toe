@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="button_default">#7b0604</drawable>
+    <drawable name="button_checked">#dc9b9b</drawable>
+    <drawable name="button_pressed">#119107</drawable>
+    <drawable name="white">#fff</drawable>
+</resources>
